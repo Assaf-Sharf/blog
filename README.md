@@ -1,3 +1,5 @@
+> This fork just offers a simple enhancement to post metadata. Here's [the PR](https://github.com/mmistakes/minimal-mistakes/pull/5014).
+
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
